@@ -1,6 +1,7 @@
 # Simple android framework
 
-# Demo 
+简单的安卓框架：
+
 Model     - 模型层
 
 Api       - Api层
